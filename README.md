@@ -2,12 +2,6 @@
 
 This application demonstrates RAG system functionality.
 
-## 🎯 How It Works
-
-1. **Fast Retrieval**: Bi-encoder searches millions of documents using HNSW
-2. **Precise Reranking**: Cross-encoder deeply analyzes top candidates
-3. **Grounded Generation**: GPT generates answers using ONLY the retrieved documents
-
 ## Overview
 
 This project showcases a complete implementation of a Retrieval-Augmented Generation (RAG) system. RAG combines the power of large language models with external knowledge retrieval to provide accurate, contextually relevant responses grounded in your data.
@@ -101,22 +95,6 @@ Grounded Response
 - **Generation**: Produce accurate responses grounded in retrieved information
 - **Grounding**: Responses are backed by actual documents, reducing hallucinations
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-- Report issues and bugs
-- Submit pull requests with improvements
-- Suggest new features or enhancements
-- Improve documentation
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Contact
-
-For questions or feedback, please open an issue in the repository.
-
----
-
-*Happy exploring with RAG! 🚀*
